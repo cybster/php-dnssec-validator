@@ -10,7 +10,6 @@
     }
   ],
   "require": {
-    "php": "^8.2",
-    "metaregistrar/php-dns-client": "^1.0"
+    "metaregistrar/php-dns-client": "dev-master"
   }
 }
