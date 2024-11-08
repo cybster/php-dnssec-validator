@@ -9,7 +9,7 @@ $domainname = $argv[1];
 
 try {
     validateDomain($domainname);
-    echo "$domainname validation succesful\n";
+    echo "$domainname validation successful\n";
 } catch (Metaregistrar\DNS\DnsException $e) {
     echo "ERROR: ".$e->getMessage()."\n";
 }
