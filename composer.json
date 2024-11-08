@@ -1,6 +1,6 @@
 {
   "name": "metaregistrar/php-dnssec-validator",
-  "description": "DNSSEC validation with only PHP required",
+  "description": "DNSSEC validation with only php required",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
